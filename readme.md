@@ -1,6 +1,6 @@
 # ❤️ LUVE RUST ❤️ #2
 
-It's a personal project that allows me to growth my skills in the [Rust language](https://www.rust-lang.org/) and how to use the [WebGPU API](https://gpuweb.github.io/gpuweb/) with [wgpu-rs](https://github.com/gfx-rs/wgpu-rs). This project also allows me to learn how to create an [ECS architecture](https://en.wikipedia.org/wiki/Entity_component_system) myself in [Rust](https://www.rust-lang.org/).
+It's a personal project that allows me to growth my skills in the [Rust language](https://www.rust-lang.org/) and how to use the [WebGPU API](https://gpuweb.github.io/gpuweb/) with [wgpu-rs](https://github.com/gfx-rs/wgpu-rs). This project also allows me to learn how to create an [ECS architecture](https://en.wikipedia.org/wiki/Entity_component_system) from scratch in [Rust](https://www.rust-lang.org/).
 
 ## Prerequisite
 
